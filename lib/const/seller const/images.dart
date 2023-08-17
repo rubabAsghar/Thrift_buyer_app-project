@@ -1,0 +1,12 @@
+const icLogo = "assets/seller_assets/icons/logo.png";
+const icAccount = "assets/seller_assets/icons/account.png";
+const icAdd = "assets/seller_assets/icons/add.png";
+const icChat = "assets/seller_assets/icons/chat.png";
+const icGeneralSetting = "assets/seller_assets/icons/general_setting.png";
+const icOrder = "assets/seller_assets/icons/orders.png";
+const icProducts = "assets/seller_assets/icons/products.png";
+const icProfile = "assets/seller_assets/icons/profile.png";
+const icShopSetting= "assets/seller_assets/icons/shop_setting.png";
+const icStar = "assets/seller_assets/icons/star.png";
+const icVerify = "assets/seller_assets/icons/verify.png";
+const imgProduct = "assets/seller_assets/product.jpg";
